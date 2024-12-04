@@ -9,3 +9,6 @@ LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 MetaGraphsNext = "fa8bd995-216d-47f1-8a91-f3b68fbeb377"
 ModelingToolkit = "961ee093-0014-501f-94e3-6117800e7a78"
 Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
+
+[compat]
+Graphs = "1"
